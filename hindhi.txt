@@ -1,0 +1,11 @@
+hello world
+ewfgggggggggggggggggggggggggggggedrswswswswggggggggggggggggggggggggv
+
+accept=".jpg,.doc,.jpeg,.txt,.png"
+
+function myFun(){
+if(x>5){
+return false
+}else{
+return true
+}
